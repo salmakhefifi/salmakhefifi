@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @salmakhefifi
-- 👀 I’m interested in DATA mining  
-- 🌱 I’m currently learning data science 
-- 📫 How to reach me data mining 
+- 
 
 <!---
 salmakhefifi/salmakhefifi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
